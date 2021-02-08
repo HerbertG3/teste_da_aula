@@ -3,5 +3,3 @@
 
 library(dplyr)
 dplyr::glimpse()
-
-alguma alteracao
